@@ -1,0 +1,15 @@
+.app {
+  text-align: center;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 50px;
+  background-color: darkgrey;
+}
+
+.app2{
+  background-color: lightyellow;
+}
+
+body{
+  background-color: aquamarine;
+}
